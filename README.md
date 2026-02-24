@@ -4,6 +4,12 @@ A faithful TypeScript recreation of Atari's **Battlezone** (1980), the pioneerin
 
 Built with Canvas 2D and Web Audio API — zero runtime dependencies, no sprite sheets, no audio files. All wireframe 3D graphics are projected and drawn procedurally, all sounds synthesized via Web Audio.
 
+<p align="center">
+  <img src="docs/screenshot_attract.png" width="280" alt="Attract screen" />
+  <img src="docs/screenshot_gameplay.png" width="280" alt="Gameplay" />
+  <img src="docs/screenshot_action.png" width="280" alt="Action" />
+</p>
+
 ## Play
 
 ```bash
